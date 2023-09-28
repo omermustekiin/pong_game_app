@@ -67,11 +67,13 @@ In this project, used Provider for state management and Shared Preferences for d
  
  <table>
   <tr>
-     <td>Options (Style & Music)</td>
+     <td>Options</td>
+     <td>Options (Ball Style & Music)</td>
      <td>Settings</td>
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
+     <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=290 height=500></td>
   </tr>
  </table>
