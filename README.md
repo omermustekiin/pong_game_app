@@ -42,7 +42,7 @@ In this project, used Provider for state management and Shared Preferences for d
   <tr>
      <td>Start Screen</td>
      <td>Game Screen</td>
-     <td>Feature active / Surprise box received</td>
+     <td>Feature Active / Surprise Box Received</td>
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/6EinVFx0RU1SZxm5dkijT5bvq5j-G2BMvyZaAQAznPMsUwEAWnVex85Z4CgiLnBidRa1=w2560-h1440-rw" width=320 height=500></td>
@@ -56,7 +56,7 @@ In this project, used Provider for state management and Shared Preferences for d
   <tr>
      <td>Game over / New Record</td>
      <td>Two Player Mode</td>
-     <td>Player one win</td>
+     <td>Player One Win</td>
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=290 height=500></td>
