@@ -1,6 +1,8 @@
 # Pong Game
 
-Pong Game is developed using Flutter. It's completely free, ad-free, you can play it with your friend or alone and have fun. It is a pong game developed with special sound effects and animations.
+Pong Game is developed using Flutter. It's completely free, ad-free, you can play it with your friend or alone and have fun. It is a pong game developed with special sound effects and animations. 
+
+In this project, i used Provider package for state management and Shared Preferences for data storage.
 
 ### Features
 
