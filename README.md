@@ -80,9 +80,6 @@ In this project, used Provider for state management and Shared Preferences for d
   </tr>
  </table>
  
- ### Watch Introduction Video
-[<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8RfcUEa6E5g "Click and watch")
-
 
 ### View or Download the App
 <table>
