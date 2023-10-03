@@ -49,7 +49,7 @@ In this project, used Provider for state management and Shared Preferences for d
   <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/b8/51/bdb8515c-3882-ab09-2c3c-a152b4da7d64/c6ecf5a4-cae5-486b-ab58-f7723dfd06ae_pong-game-1290x2796Artboard_1.jpg/460x0w.webp" width=270 height=480></td>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/b8/51/bdb8515c-3882-ab09-2c3c-a152b4da7d64/c6ecf5a4-cae5-486b-ab58-f7723dfd06ae_pong-game-1290x2796Artboard_1.jpg/460x0w.webp" width=270 height=480></td>
-    <td><img src="https://play-lh.googleusercontent.com/a1ybkUx8VFWUc5gcCY1JmuPhxLNTlYdR2tJdhu4J8zLCu_mAZ0tsf7bZIMS7ccvCSINk=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/19/e9/be19e91f-665b-3710-9409-4471ff600519/8d6331f7-7a3c-4514-b733-5682ea50da6e_pong-game-1290x2796Artboard_3.jpg/460x0w.webp" width=270 height=480></td>
   </tr>
  </table>
  
