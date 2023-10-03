@@ -48,7 +48,7 @@ In this project, used Provider for state management and Shared Preferences for d
   </tr>
   <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/b8/51/bdb8515c-3882-ab09-2c3c-a152b4da7d64/c6ecf5a4-cae5-486b-ab58-f7723dfd06ae_pong-game-1290x2796Artboard_1.jpg/460x0w.webp" width=270 height=480></td>
-    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/b8/51/bdb8515c-3882-ab09-2c3c-a152b4da7d64/c6ecf5a4-cae5-486b-ab58-f7723dfd06ae_pong-game-1290x2796Artboard_1.jpg/460x0w.webp" width=270 height=480></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/92/80/1f/92801f1f-b2d8-db40-bd45-3cea92652e41/148c130e-4ef9-4724-ae91-3f41b499c825_pong-game-1290x2796Artboard_2.jpg/460x0w.webp" width=270 height=480></td>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/19/e9/be19e91f-665b-3710-9409-4471ff600519/8d6331f7-7a3c-4514-b733-5682ea50da6e_pong-game-1290x2796Artboard_3.jpg/460x0w.webp" width=270 height=480></td>
   </tr>
  </table>
@@ -62,7 +62,7 @@ In this project, used Provider for state management and Shared Preferences for d
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/92/80/1f/92801f1f-b2d8-db40-bd45-3cea92652e41/148c130e-4ef9-4724-ae91-3f41b499c825_pong-game-1290x2796Artboard_2.jpg/460x0w.webp" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=290 height=500></td>
   </tr>
  </table>
