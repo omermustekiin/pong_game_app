@@ -61,9 +61,9 @@ In this project, used Provider for state management and Shared Preferences for d
      <td>Player One Win</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/pdUa-MCt_y8l1LTnBYjPu4_A3V3t0LCvTuF1QfjHf-_o0n7Qx6uAU5dqlqIU4dbxuyUz=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/92/80/1f/92801f1f-b2d8-db40-bd45-3cea92652e41/148c130e-4ef9-4724-ae91-3f41b499c825_pong-game-1290x2796Artboard_2.jpg/460x0w.webp" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/79/a2/6c/79a26c0d-4326-2f1c-1e76-86175f0e1fbc/19d14053-9f60-494b-8a70-217633dd4b9a_pong-game-1290x2796Artboard_4.jpg/460x0w.webp" width=270 height=480></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/7d/35/b37d3593-673c-660c-c803-5ec3a3295d96/dbdf4830-b7cc-4160-9b9a-24b5fe2fbd93_pong-game-1290x2796Artboard_6.jpg/460x0w.webp" width=270 height=480></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2a/fa/9c/2afa9c1e-4af5-83f6-7cbe-c0058a6126b2/a974d7f8-ceb6-4dc1-8234-3d800404c42e_pong-game-1290x2796Artboard_7.jpg/460x0w.webp" width=270 height=480></td>
   </tr>
  </table>
  
@@ -74,9 +74,9 @@ In this project, used Provider for state management and Shared Preferences for d
      <td>Settings</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
-     <td><img src="https://play-lh.googleusercontent.com/KW-w7H1uxWU4Pn_qJuyD8CUbarvwbCkmO6CpOY0ExAijsewzwvrbgmioC7bjBT7yla4=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/bKrbgMa25A1anF75y7kdzvn5C5ReRSv8Jnp1uPGRvlE7khzl2vbNhwprxAhPX_2sKG8=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e3/c7/ff/e3c7ffad-c465-50da-1d83-eba383faf9fc/4d3a7b69-e4eb-4282-83f5-9b63aa6b24b2_pong-game-1290x2796Artboard_5.jpg/460x0w.webp" width=270 height=480></td>
+     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/a8/e7/06a8e708-3ba1-a447-df4a-5dc57f3aedfb/2d0733eb-11d3-4964-8605-904cc880b11e_pong-game-1290x2796Artboard_8.jpg/460x0w.webp" width=270 height=480></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/f9/be/9df9be24-6bce-9d20-0235-69b10a965807/aab167d0-aff9-4053-a410-205e87c653bf_pong-game-1290x2796Artboard_9.jpg/460x0w.webp" width=270 height=480></td>
   </tr>
  </table>
  
