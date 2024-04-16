@@ -90,7 +90,7 @@ In this project, used Provider for state management and Shared Preferences for d
   </tr>
   <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/b6/88/aeb688b7-7ea8-b72f-70b3-bd179c575e5b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/230x0w.webp" width=150 height=160></td>
-    <td><a href="https://play.google.com/store/apps/details?id=com.celebi.altin_app"><img src="https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj" width=150 height=160></img></a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.lucesoft.pong.game"><img src="https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj" width=150 height=160></img></a></td>
     <td><a href="https://apps.apple.com/au/app/pong-game/id6467642083?platform=iphone"><img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" width=150 height=160></img></a></td>
   </tr>
  </table>
